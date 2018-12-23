@@ -3,4 +3,4 @@ Langkah langkah installnya silahkan kunjungi https://medium.com/@spryd/step-by-s
 
 terimakasih
 
-
+Copyright (c) 2018 Uber Technologies, Inc.
